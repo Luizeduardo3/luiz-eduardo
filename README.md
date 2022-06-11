@@ -1,4 +1,4 @@
-### ola eu sou o luiz-eduardo 👋
+### !Olá eu sou o luiz-eduardo 👋
 
 -estudante especialização em front-end 📚
 
